@@ -137,4 +137,9 @@ h1 {
     font-size: 2rem;
     width: 15rem;
   }
+
+  .right {
+    width: 52rem;
+    font-size: 1.3rem;
+  }
 }
